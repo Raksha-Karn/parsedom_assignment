@@ -21,7 +21,6 @@ Link to Sample Data: [Intern_assignment_Raksha_Karn_Google_Sheets](https://docs.
 - Step 2: I ran an infinite loop until I reached the page where the next page button has the 'disabled' property.
 - Step 3: After pagination is done, I get the URL for the detail page in each listings page using the CSS selector.
 - Step 4: In the details page, for each required property, I use CSS selector, Xpath and regex to get the data.
-https://github.com/Raksha-Karn/Remote-Ok-Scraper
 
 ## My Other Scraping projects
 
@@ -31,4 +30,4 @@ https://github.com/Raksha-Karn/Remote-Ok-Scraper
 
 - LinkedIn Scraper - This scraper scrapes https://linkedin.com using Selenium. [Link to the repository](https://github.com/Raksha-Karn/InScraper)
 
-- Reddit Scraper - This scraper scrapes https://reddit.com using Scrapy. [Link to the repository](https://github.com/Raksha-Karn/RedditScraper)
+- Reddit Scraper - This scraper scrapes https://reddit.com using Scrapy. [Link to the repository](https://github.com/Raksha-Karn/Reddit-Scraper)
